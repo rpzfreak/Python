@@ -36,7 +36,7 @@ def start() :
     elif op == "NO":
         #stuff
         invalid_input = False # Set to False because input was valid
-        print("It's a Virus Idoit,There is no NO option (X_X)")
+        print("It's a Virus Idiot,There is no NO option (X_X)")
 
     elif op == "Crack the Virus.pyHck":
         #stuff
